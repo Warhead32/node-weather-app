@@ -40,5 +40,3 @@ if (address) {
 } else {
     console.log("Please pass a string containing city name as argument.");
 }
-
-console.log('Khushal');
